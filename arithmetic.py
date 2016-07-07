@@ -5,19 +5,19 @@ def subtract(num1, num2):
     return num1 - num2
 
 def multiply(num1, num2):
-    pass
+    return num1 * num2
 
 def divide(num1, num2):
-    pass
+    return float(num1) / float(num2)
 
 def square(num1):
-    pass
+    return num1**2
 
 def cube(num1):
-    pass
+    return num1**3
 
 def power(num1, num2):
-    pass
+    return num1**num2
 
 def mod(num1, num2):
-    pass
+    return num1 % num2
